@@ -10,10 +10,9 @@ Fer que totes les persones, independentment de la seva capacitat comunicativa, p
 
 | Repositori         | Descripció                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
-| [`emh-front`](https://github.com/express-my-health/emh-front) | Frontend Angular per a pacients i professionals.                      |
-| [`emh-back`](https://github.com/express-my-health/emh-back)   | Backend en Python per a gestió clínica i connexió amb IA.            |
+| [`emh-front`](https://github.com/express-my-health/emh-frontend) | Frontend Angular per a pacients i professionals.                      |
+| [`emh-back`](https://github.com/express-my-health/emh-backemd)   | Backend en Python per a gestió clínica i connexió amb IA.            |
 | [`emh-ai`](https://github.com/express-my-health/emh-ai)       | Models d’IA per a traducció multimodal i anàlisi semàntica.          |
-| [`emh-pictograms`](https://github.com/express-my-health/emh-pictograms) | Gestió i motor semàntic de pictogrames.                              |
 | [`emh-db`](https://github.com/express-my-health/emh-db)       | Models de dades i migracions per a bases de dades mèdiques.          |
 | [`emh-web`](https://github.com/express-my-health/emh-web)     | Lloc web institucional i pàgina de benvinguda.                       |
 | `.github`           | Workflows, plantilles i polítiques comunes a tota l'organització.          |
