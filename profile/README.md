@@ -1,6 +1,6 @@
-# Express My Health · Organitzación GitHub
+# Express My Health
 
-**Express My Health (EMH)** es una plataforma de comunicación especializada en el ámbito sanitario, enfocado a aquellas personas con dificultades comunicativas. Su misión es eliminar las barreras ofreciendo dignidad al paciente, claridad al cuidador y precisión al profesional de la salud.
+**EMH** es una plataforma de comunicación especializada en el ámbito sanitario, enfocado a aquellas personas con dificultades comunicativas. Su misión es eliminar las barreras ofreciendo dignidad al paciente, claridad al cuidador y precisión al profesional de la salud.
 
 ## Información
 
